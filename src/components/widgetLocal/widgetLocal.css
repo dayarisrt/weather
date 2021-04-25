@@ -1,0 +1,33 @@
+.weitherWidgetLocal{
+    height: 140px;
+    width: 80px;
+    top: 110px;
+    position: absolute;
+    background-color:blueviolet !important;
+    border-top-right-radius: 30px !important;
+    border-bottom-right-radius: 30px !important;
+}
+
+.weitherBox{
+    height: 55%;
+    background-color:#34085e !important;
+    border-top-right-radius: 30px !important;
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 30px !important;
+    z-index: 100;
+}
+
+.gradeBox{
+    border-bottom-right-radius: 30px !important;
+    height: 45%;
+    background-color:blueviolet !important;
+    display: flex;
+    justify-content: center;
+}
+
+.textGradeBox{
+    margin: auto;
+    color: #ffff !important;
+    font-weight: bold;
+    font-size:x-large;
+}

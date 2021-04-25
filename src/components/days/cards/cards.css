@@ -1,0 +1,37 @@
+.details {
+    display: 'flex';
+    flex-direction: 'column';
+    width: 65%;
+}
+
+.content {
+    flex: '1 0 auto';
+}
+
+.cardLeft{
+    width: 121px;
+}
+
+.cardRight{
+    width: 151px;
+    background-color: blueviolet !important;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding-top: 30px;
+    text-align:center;
+}
+
+.iconLeft{
+    margin-top: 30%;
+    margin-left: 30%;
+}
+
+.grades{
+    margin-top: 50% !important;
+    font-size:x-large;
+}
+
+.colorText{
+    color: #ffffff;
+}
+

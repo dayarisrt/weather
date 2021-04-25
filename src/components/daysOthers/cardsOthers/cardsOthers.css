@@ -1,0 +1,50 @@
+.dayTagOthers{
+    border-top-left-radius: 20px !important;
+    height: 130px !important;
+    margin-bottom: 20px;
+}
+.detailsOthers {
+    display: 'flex';
+    flex-direction: 'column';
+    width: 65%;
+}
+
+.content {
+    flex: '1 0 auto';
+}
+
+.cardCenterOthers{
+    text-align: center;
+    padding-top: 10px;
+    width: 121px;
+}
+
+.cardLeftOthers{
+    width: 151px;
+    background-color: #d2ddee !important;
+    border-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.iconLeft{
+    margin-top: 30%;
+    margin-left: 30%;
+}
+
+.gradesOthers{
+    margin-top: 30% !important;
+    font-size:42px;
+    font-weight: bold;
+}
+
+.colorText{
+    color: #ffffff;
+}
+
+.DetailGrid{
+    margin-top: 5px;
+    text-align: center;
+    color:thistle;
+    font-size: 14px;
+}
+

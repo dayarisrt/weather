@@ -1,0 +1,7 @@
+.imgPlace{
+    border-radius: 10px;
+    background-image: url('../../img/bogota.jpg');
+    background-size: 100% 100%;
+    min-height: 320px;
+    margin-top: 10px;
+}

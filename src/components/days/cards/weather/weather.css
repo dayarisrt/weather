@@ -1,0 +1,23 @@
+.iconCloud{
+    color: blueviolet;
+}
+
+.iconSun{
+    color:yellow;
+}
+
+.iconRain{
+    color:turquoise;
+}
+
+.iconWhite{
+    color:#ffff !important;
+}
+
+.together_up{
+    margin-bottom: -60px !important;
+}
+
+.together_down{
+    margin-bottom: 15px !important;
+}
